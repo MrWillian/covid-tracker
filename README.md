@@ -1,8 +1,8 @@
 # Covid Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a code repository for the corresponding video tutorial in References;
-This is a Covid-19 Tracker produced in ReactJS that show cases and charts of Covid in all World, and each country.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br />
+This is a code repository for the corresponding video tutorial in References. <br />
+Covid Tracker produced in ReactJS that show cases and charts of Covid-19 in all World, and each country.
 
 <br />
 
