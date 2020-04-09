@@ -14,21 +14,20 @@ This is a Covid-19 Tracker produced in ReactJS that show cases and charts of Cov
  - API Used: https://covid19.mathdro.id/api
 
 <br />
-<br />
 
 # Getting Started
 
   > npm i && npm start
 
 <br />
-<br />
-
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<br />
 
 ## Screenshots
 
@@ -38,6 +37,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ![Brazil](https://i.imgur.com/GavzKlm.jpg)
 
+<br />
 
 ## References
 
