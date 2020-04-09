@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a code repository for the corresponding video tutorial in References;
 This is a Covid-19 Tracker produced in ReactJS that show cases and charts of Covid in all World, and each country.
 
+<br />
 
 # Project Resources
  - Language: JavaScript
@@ -12,12 +13,15 @@ This is a Covid-19 Tracker produced in ReactJS that show cases and charts of Cov
 
  - API Used: https://covid19.mathdro.id/api
 
-
+<br />
+<br />
 
 # Getting Started
 
   > npm i && npm start
 
+<br />
+<br />
 
 
 ## Learn More
