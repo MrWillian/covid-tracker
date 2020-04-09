@@ -1,6 +1,9 @@
 # Covid Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a code repository for the corresponding video tutorial in References;
+This is a Covid-19 Tracker produced in ReactJS that show cases and charts of Covid in all World, and each country.
+
 
 # Project Resources
  - Language: JavaScript
@@ -10,13 +13,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - API Used: https://covid19.mathdro.id/api
 
 
+
 # Getting Started
 
   > npm i && npm start
-  
+
+
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshots
+
+![Global Card](https://i.imgur.com/U6iZa7P.jpg)
+
+![Global Chart](https://i.imgur.com/Wk7BKNZ.jpg)
+
+![Brazil](https://i.imgur.com/GavzKlm.jpg)
+
+
+## References
+
+https://www.youtube.com/watch?v=khJlrj3Y6Ls
